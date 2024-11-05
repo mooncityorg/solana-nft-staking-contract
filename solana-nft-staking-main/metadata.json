@@ -1,0 +1,58 @@
+{
+    "name": "Kobeni",
+    "symbol": "KBN",
+    "description": "Kobeni supremacy 🛐",
+    "image": "https://pbs.twimg.com/media/F3DRtPUb0AEPJRi?format=jpg&name=large",
+    "animation_url": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+    "attributes": [
+        {
+            "trait_type": "Gender",
+            "value": "Female"
+        },
+        {
+            "trait_type": "Type",
+            "value": "Dark"
+        },
+        {
+            "trait_type": "Expression",
+            "value": "Smile"
+        },
+        {
+            "trait_type": "Hat",
+            "value": "Cartwheel"
+        },
+        {
+            "trait_type": "Hair",
+            "value": "Long Purple"
+        },
+        {
+            "trait_type": "Eyes",
+            "value": "Purple"
+        },
+        {
+            "trait_type": "Mouth",
+            "value": "Pink"
+        },
+        {
+            "trait_type": "Clothing",
+            "value": "Noir Dress"
+        },
+        {
+            "trait_type": "Background",
+            "value": "Purple"
+        }
+    ],
+    "properties": {
+        "category": "audio",
+        "files": [
+            {
+                "uri": "https://i.ibb.co/f9W8N9y/anus.gif",
+                "type": "image/jpeg"
+            },
+            {
+                "uri": "https://storage.googleapis.com/sw-test-2023/sounds%2F2024-02-23T16%3A05%3A29.964Z_MeikoNakahara-Fantasy.mp3",
+                "type": "audio/mpeg"
+            }
+        ]
+    }
+}
